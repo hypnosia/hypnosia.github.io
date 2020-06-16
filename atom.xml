@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hypnosia.github.io/index.html/"/>
-  <updated>2020-06-12T02:25:08.000Z</updated>
+  <updated>2020-06-16T02:32:40.162Z</updated>
   <id>http://hypnosia.github.io/index.html/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[TEST]</title>
+    <link href="http://hypnosia.github.io/index.html/2020/06/16/test/"/>
+    <id>http://hypnosia.github.io/index.html/2020/06/16/test/</id>
+    <published>2020-06-16T02:31:56.290Z</published>
+    <updated>2020-06-16T02:32:40.162Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;[TEST]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/007S8ZIlgy1gftxap3658j316g0u0qdq.jpg&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>[2014] 记忆</title>
